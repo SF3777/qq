@@ -1,727 +1,295 @@
-<!DOCTYPE html>
-<html lang="en">
-  <头>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width， initial-scale=1.0" />
-<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-<标题>生日快乐!!!:)</标题>
-    <链接
-href="https://fonts.googleapis.com/css?family=Work+Sans:300,400"
-rel="stylesheet"
-    />
-<link rel="shortcut icon" type="image/png" href="img/favicon.png" />
-<link rel="stylesheet" href="style/style.css" />
-  </头>
-
-  <身体>
-    <音频
-自动播放="真"
-      圈
-src="https://res.cloudinary.com/dlr8gie0d/video/upload/v1617498637/hbd_lrzzzr.mp3"
-    ></音频>
-<div class="container">
-<div class="one">
-<h1 类="一">
-嘿
-<span id="name"></span>
-        </h1>
-<p class="two" id="greetingText">我真的很喜欢你的名字顺便说一句！</人>
-      </迪夫>
-<div class="three">
-<p>今天是你的生日!!!:D</人>
-      </迪夫>
-<div class="four">
-<div class="text-box">
-<p class="hbd-chatbox">
-祝你生日快乐！！哎呀！很多很多快乐的废话...
-          </p>
-<p class="fake-btn">Send</p>
-        </迪夫>
-      </迪夫>
-<div class="five">
-<p class="idea-1">这就是我要做的.</p>
-<p class="idea-2">但后来我停止了。</人>
-<p class="idea-3">
-我意识到，我想做点什么
-<强>特殊</强>
-.
-        </p>
-<p class="idea-4">因为，</p>
-<p class="idea-5">
-你是特别的
-<跨度>:)</跨度>
-        </p>
-<p class="idea-6">
-<跨度>S</跨度>
-<跨>O</跨度>
-<头>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width， initial-scale=1.0" />
-<meta http-equiv="X-UA-Compatible" content="ie=edge" />
-<标题>生日快乐!!!:)</标题>
-<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400" rel="stylesheet" />
-<link rel="shortcut icon" type="image/png" href="img/favicon.png" />
-<link rel="stylesheet" href="style/style.css" />
-</头>
-
-<身体>
-
-<音频类="歌曲"控制循环>
-<source src="./music/hbd.mp3">
-    </源>
-您的浏览器不会被邀请进行超级有趣的音频时间。
-  </音频>
-
-<div class="container">
-<div class="one">
-<h1 类="一">
-嘿
-<span id="name"></span>
-      </h1>
-<p class="two" id="greetingText">我真的很喜欢你的名字顺便说一句！</人>
-    </迪夫>
-<div class="three">
-<p>今天是你的生日!!!:D</人>
-    </迪夫>
-<div class="four">
-<div class="text-box">
-<p class="hbd-chatbox">
-祝你生日快乐！！哎呀！很多很多快乐的废话...
-        </p>
-<p class="fake-btn">Send</p>
-      </迪夫>
-<div class="six">
-<img src="" alt="" class="lydia-dp" id="imagePath" />
-<img src="img/hat.svg" alt="" class="hat" />
-<div class="wish">
-<h3 class="wish-hbd">生日快乐！</小时>
-<h5 id="wishText">js.prototypes永远和你在一起！;)</小时5>
-        </迪夫>
-      </迪夫>
-<div class="seven">
-<div class="baloons">
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-        </迪夫>
-      </迪夫>
-<div class="eight">
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-        </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-        </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-        </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-        </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-        </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-        </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-        </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-        </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-        </svg>
-    </迪夫>
-<div class="five">
-<p class="idea-1">这就是我要做的.</p>
-<p class="idea-2">但后来我停止了。</人>
-<p class="idea-3">
-我意识到，我想做点什么
-<强>特殊</强>
-.
-      </p>
-<p class="idea-4">因为，</p>
-<p class="idea-5">
-你是特别的
-        <span>:)</span>
-      </p>
-      <p class="idea-6">
-        <span>S</span>
-        <span>O</span>
-      </p>
-    </div>
-    <div class="six">
-      <img src="" alt="" class="lydia-dp" id="imagePath" />
-      <img src="img/hat.svg" alt="" class="hat" />
-      <div class="wish">
-        <h3 class="wish-hbd">Happy Birthday!</h3>
-        <h5 id="wishText">May the js.prototypes always be with you! ;)</h5>
-      </div>
-      <div class="nine">
-        <p>Okay, now come back and tell me if you liked it.</p>
-        <p id="replay">Or click, if you want to watch it again.</p>
-        <p class="last-smile">:)</p>
-    </div>
-    <div class="seven">
-      <div class="baloons">
-        <img src="img/ballon2.svg" alt="" />
-        <img src="img/ballon1.svg" alt="" />
-        <img src="img/ballon3.svg" alt="" />
-        <img src="img/ballon1.svg" alt="" />
-        <img src="img/ballon2.svg" alt="" />
-        <img src="img/ballon3.svg" alt="" />
-        <img src="img/ballon2.svg" alt="" />
-        <img src="img/ballon3.svg" alt="" />
-        <img src="img/ballon1.svg" alt="" />
-        <img src="img/ballon2.svg" alt="" />
-        <img src="img/ballon3.svg" alt="" />
-        <img src="img/ballon2.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon2.svg" alt="" />
-<img src="img/ballon1.svg" alt="" />
-<img src="img/ballon3.svg" alt="" />
-      </迪夫>
-    </迪夫>
-  </身体>
-<div class="eight">
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-      </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-      </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-      </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-      </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-      </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-      </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-      </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-      </svg>
-<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-<圆 cx="20" cy="20" r="20" />
-      </svg>
-    </迪夫>
-<div class="nine">
-<p>好吧，现在回来告诉我你是否喜欢它。</人>
-<p id="replay">或者点击，如果你想再看一遍。</人>
-<p class="last-smile">:)</p>
-    </迪夫>
-  </迪夫>
-</身体>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.1.5/dist/sweetalert2.all.min.js"></script>
-<script type="application/javascript" src="script/main.js"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
-<script type="application/javascript" src="script/main.js"></script>
-</html>
- 斌 +1.14 MB 音乐/hbd.mp3 
-未显示二进制文件。
-  84 脚本/主.js 
-@@ -1,3 +1,24@@
 加载网页时运行
 窗口。addEventListener（'load'， （） => {
 斯瓦尔。火（{
 标题："你确定要在后台播放音乐吗？，
 文本："您将无法还原此内容！，
+    // 文本："您将无法还原此内容！
 图标："警告"，
 显示钱博尔顿：真，
 确认按钮颜色："#3085d6"，
-取消按钮颜色："#d33"，
-确认按钮文本："是"，
-取消按钮文本："否"，
-}）。then（（result） => {
-如果（结果。已确认） {
-文档。querySelector（'.song'）.播放（）;
-resolveFetch（）.then（animationTimeline（））;
+    取消按钮颜色："#d33"，
+    确认按钮文本："是"，
+    取消按钮文本："否"，
+  })。then（（result) => {
+    如果（结果。已确认) {
+      文档。querySelector（'.song'）.玩();
+      resolveFetch（）.然后（动画时间线());
     } 还 {
-resolveFetch（）.then（animationTimeline（））;
+      resolveFetch（）.然后（动画时间线());
     }
   })
 })
-
 动画时间轴
-const animationTimeline = （） = > {
+const animationTimeline = () => {
   需要单独动画化的吐槽
-@@ -29，8 +50，8 @@ const animationTimeline = （） => {
-const tl = new TimelineMax（）;
-
-嗯。to（".container"， 0.1， {
-可见性："可见"，
-  })
- 可见性："可见"，
+  const textBoxChars = document.getElementsByClassName（"hbd-chatbox"）[0];
+  const hbd = document.getElementsByClassName（"wish-hbd"）[0];
+  文本框字符。innerHTML = '<span>${textBoxChars.innerHTML
+。拆分（""）
+ 。join（"</span><span>"）}</span';
+  hbd.innerHTML = '<span>${hbd.innerHTML
+。拆分（""）
+ 。join（"</span><span>"）}</span';
+  const ideaTextTrans = {
+    不透明度： 0，
+    y： -20，
+    旋转X： 5，
+    skewX： "15deg"，
+  };
+  const ideaTextTransLeave = {
+    不透明度： 0，
+    y： 20，
+    旋转： 5，
+    skewX： "-15deg"，
+  };
+  const tl = new TimelineMax();
+  嗯。to（".container"， 0.1， {
+      可见性："可见"，
     })
-。from（".one"， 0.7， {
-不透明度： 0，
-y： 10，
-@@ -41，17 +62，15 @@ const animationTimeline = （） => {
+    。from（".one"， 0.7， {
+      不透明度： 0，
+      y： 10，
     })
-。到（
-".one"，
-0.7，
-      {
-0.7， {
-不透明度： 0，
-y： 10，
+    。from（".two"， 0.4， {
+      不透明度： 0，
+      y： 10，
+    })
+    。自(
+      ".one"，
+      0.7， {
+        不透明度： 0，
+        y： 10，
       },
       "+=2.5"
     )
-。到（
-".二"，
-0.7，
-      {
-0.7， {
-不透明度： 0，
-y： 10，
+    。自(
+      ".二"，
+      0.7， {
+        不透明度： 0，
+        y： 10，
       },
-@@ -64，8 +83，7 @@ const animationTimeline = （） => {
-    })
-。到（
-".三"，
-0.7，
-      {
-0.7， {
-不透明度： 0，
-y： 10，
-      },
-@@ -81，8 +99，7 @@ const animationTimeline = （） => {
-    })
-。交错到（
-".hbd-chatbox span"，
-1.5，
-      {
-1.5， {
-可见性："可见"，
-      },
-      0.05
-@@ -92，8 +109，7 @@ const animationTimeline = （） => {
-    })
-。到（
-".四"，
-0.5，
-      {
-0.5， {
-比例： 0.2，
-不透明度： 0，
-y： -150，
-@@ -116，8 +132，7 @@ const animationTimeline = （） => {
-。to（".idea-4"， 0.7， ideaTextTransLeave， "+=1.5"）
-。从（
-".idea-5"，
-0.7，
-      {
-0.7， {
-旋转X： 15，
-旋转Z： -10，
-skewy： "-5deg"，
-@@ -129，26 +144，23 @@ const animationTimeline = （） => {
+      "-=1"
     )
-。到（
-".idea-5 span"，
-0.7，
-      {
-0.7， {
-最大旋转： 90，
-x： 8，
-      },
-      "+=0.4"
-    )
-。到（
-".idea-5"，
-0.7，
-      {
-0.7， {
-比例： 0.2，
-不透明度： 0，
+    。来自（".three"， 0.7， {
+      不透明度： 0，
+      y： 10，
+      比例： 0.7
+    })
+    。自(
+      ".三"，
+      0.7， {
+        不透明度： 0，
+        y： 10，
       },
       "+=2"
     )
-。交错从（
-".idea-6 span"，
-0.8，
-      {
-0.8， {
-比例： 3，
-不透明度： 0，
-旋转： 15，
-@@ -158，8 +170，7 @@ const animationTimeline = （） => {
-    )
-。交错到（
-".idea-6 span"，
-0.8，
-      {
-0.8， {
-比例： 3，
-不透明度： 0，
-旋转： -15，
-@@ -170，21 +181，18 @@ const animationTimeline = （） => {
-    )
-。交错从到（
-".baloons img"，
-2.5，
-      {
-2.5， {
-不透明度： 0.9，
-y： 1400，
+    。来自（".four"， 0.7， {
+      比例： 0.2，
+      不透明度： 0，
+    })
+    。from（".fake-btn"， 0.3， {
+      比例： 0.2，
+      不透明度： 0，
+    })
+    。交错到(
+      ".hbd-chatbox span"，
+      1.5， {
+        可见性："可见"，
       },
-      {
+      0.05
+    )
+    .to(".fake-btn", 0.1, {
+      backgroundColor: "rgb(127, 206, 248)",
+    })
+    .to(
+      ".four",
+      0.5, {
+        scale: 0.2,
+        opacity: 0,
+        y: -150,
+      },
+      "+=0.7"
+    )
+    .from(".idea-1", 0.7, ideaTextTrans)
+    .to(".idea-1", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-2", 0.7, ideaTextTrans)
+    .to(".idea-2", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-3", 0.7, ideaTextTrans)
+    .to(".idea-3 strong", 0.5, {
+      scale: 1.2,
+      x: 10,
+      backgroundColor: "rgb(21, 161, 237)",
+      color: "#fff",
+    })
+    .to(".idea-3", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(".idea-4", 0.7, ideaTextTrans)
+    .to(".idea-4", 0.7, ideaTextTransLeave, "+=1.5")
+    .from(
+      ".idea-5",
+      0.7, {
+        rotationX: 15,
+        rotationZ: -10,
+        skewY: "-5deg",
+        y: 50,
+        z: 10,
+        opacity: 0,
+      },
+      "+=0.5"
+    )
+    .to(
+      ".idea-5 span",
+      0.7, {
+        rotation: 90,
+        x: 8,
+      },
+      "+=0.4"
+    )
+    .to(
+      ".idea-5",
+      0.7, {
+        scale: 0.2,
+        opacity: 0,
+      },
+      "+=2"
+    )
+    .staggerFrom(
+      ".idea-6 span",
+      0.8, {
+        scale: 3,
+        opacity: 0,
+        rotation: 15,
+        ease: Expo.easeOut,
+      },
+      0.2
+    )
+    .staggerTo(
+      ".idea-6 span",
+      0.8, {
+        scale: 3,
+        opacity: 0,
+        rotation: -15,
+        ease: Expo.easeOut,
+      },
+      0.2,
+      "+=1"
+    )
+    .staggerFromTo(
+      ".baloons img",
+      2.5, {
+        opacity: 0.9,
+        y: 1400,
       }, {
-不透明度： 1，
-y： -1000，
+        opacity: 1,
+        y: -1000,
       },
       0.2
     )
     .from(
       ".lydia-dp",
-      0.5,
-      {
       0.5, {
         scale: 3.5,
         opacity: 0,
         x: 25,
-@@ -201,8 +209,7 @@ const animationTimeline = () => {
+        y: -25,
+        rotationZ: -45,
+      },
+      "-=2"
+    )
+    .from(".hat", 0.5, {
+      x: -100,
+      y: 350,
+      rotation: -180,
+      opacity: 0,
     })
     .staggerFrom(
       ".wish-hbd span",
-      0.7,
-      {
       0.7, {
         opacity: 0,
         y: -50,
         // scale: 0.3,
-@@ -214,12 +221,10 @@ const animationTimeline = () => {
+        rotation: 150,
+        skewX: "30deg",
+        ease: Elastic.easeOut.config(1, 0.5),
+      },
+      0.1
     )
     .staggerFromTo(
       ".wish-hbd span",
-      0.7,
-      {
-0.7， {
-比例： 1.4，
-最大周转： 150，
-      },
-      {
+      0.7, {
+        scale: 1.4,
+        rotationY: 150,
       }, {
-比例： 1，
-旋转： 0，
-颜色： "#ff69b4"，
-@@ -230，8 +235，7 @@ const animationTimeline = （） => {
+        scale: 1,
+        rotationY: 0,
+        color: "#ff69b4",
+        ease: Expo.easeOut,
+      },
+      0.1,
+      "party"
     )
-。从（
-".wish h5"，
-0.5，
-      {
-0.5， {
-不透明度： 0，
-y： 10，
-skewX： "-15deg"，
-@@ -240，8 +244，7 @@ const animationTimeline = （） => {
+    .from(
+      ".wish h5",
+      0.5, {
+        opacity: 0,
+        y: 10,
+        skewX: "-15deg",
+      },
+      "party"
     )
-。交错到（
-".eight svg"，
-1.5，
-      {
-1.5， {
-可见性："可见"，
-不透明度： 0，
-比例： 80，
-@@ -258，8 +261，7 @@ const animationTimeline = （） => {
-。staggerFrom（".nine p"， 1， ideaTextTrans， 1.2）
-。到（
-".最后的微笑"，
-0.5，
-      {
-0.5， {
-最大旋转： 90，
+    .staggerTo(
+      ".eight svg",
+      1.5, {
+        visibility: "visible",
+        opacity: 0,
+        scale: 80,
+        repeat: 3,
+        repeatDelay: 1.4,
+      },
+      0.3
+    )
+    .to(".six", 0.5, {
+      opacity: 0,
+      y: 30,
+      zIndex: "-1",
+    })
+    .staggerFrom(".nine p", 1, ideaTextTrans, 1.2)
+    .to(
+      ".last-smile",
+      0.5, {
+        rotation: 90,
       },
       "+=1"
-@@ -301，5 +303，3 @@ const resolveFetch = （） => {
-resolve（"Fetch done！"）;
+    );
+  // tl.seek("currentStep");
+  // tl.timeScale(2);
+  // Restart Animation on click
+  const replyBtn = document.getElementById("replay");
+  replyBtn.addEventListener("click", () => {
+    tl.restart();
   });
 };
-
-resolveFetch（）.then（animationTimeline（））;
-  4 风格/风格.css 
-@@ -37，6 +37，10 @@ 身体 {
-顶部：20vh;
-}
-
-.歌曲 {
-可见性：隐藏;
-}
-
-.一个 {
-字体大小： 4.5 雷姆;
-}
-.一个> img {
-  垂直对齐：中间;
-  底部边距：10px;
-  最大宽度：100%;
-  高度：自动;
-}
-.二 {
-  字体大小： 1.2雷姆;
-  字体粗细： 更轻;
-}
-.三 {
-  字体大小： 3雷姆;
-}
-.四.文本框 {
-  宽度： 600px;
-  边距： 0 自动;
-  边框： 3px 实心 #aaa;
-  边框半径：5px;
-  填充：10px;
-  位置：相对;
-}
-.文本框 p {
-  边距： 0;
-  文本对齐：左;
-}
-.文本框范围 {
-  可见性：隐藏;
-}
-.文本框 。假-btn {
-  位置：绝对;
-  右：5 像素;
-  底部：5 像素;
-  颜色： #fff;
-  背景颜色： rgb（21， 161， 237）);
-  填充：5px 8px;
-  边框半径：3px;
-}
-.五个p {
-  字体大小： 2雷姆;
-  位置：绝对;
-  左： 0;
-  右： 0;
-}
-.理念-3 强 {
-  填充：3 像素 5 像素;
-  边框半径：3px;
-  显示： 内联块;
-}
-.五.想法-5 {
-  字体大小： 4雷姆;
-}
-.idea-5 跨度，
-.idea-6 跨度，
-.愿望-hbd 跨度 {
-  显示： 内联块;
-}
-.idea-6 跨度 {
-  字体大小： 15雷姆;
-}
-.六 {
-  位置：相对;
-}
-.六个图像 {
-  显示： 内联块;
-  最大宽度：100%;
-  高度： 350px;
-  /* 高度： 自动;*/
-}
-.六.帽子 {
-  位置：绝对;
-  宽度： 80px;
-  上衣： -35%;
-  左： 41.5%;
-  /* 变换： 比例（0.1）;*/
-}
-.巴隆斯 img {
-  显示： 内联块;
-  位置：绝对;
-}
-.baloons img：nth-child（even) {
-  左： -10%;
-}
-.baloons img：nth-child（奇数) {
-  右： -10%;
-}
-.baloons img：nth-child（3n + 0) {
-  左： 30%;
-}
-.八 svg  {
-  宽度： 25px;
-  位置：绝对;
-  顶部： 0;
-  左： 0;
-  可见性：隐藏;
-  z-指数： -1;
-}
-.八个 svg：第 n 个子（1) {
-  顶部： 7vh;
-  左： 5vw;
-  填充： #bd6ecf;
-}
-.八个 svg：第 n 个子（2) {
-  顶部： 23vh;
-  左： 35vw;
-  填充： #7dd175;
-}
-.八个 svg：第 n 个子（3) {
-  顶部： 33vh;
-  左： 23vw;
-  填充： #349d8b;
-}
-.八个 svg：第 n 个子（4) {
-  顶部： 43vh;
-  左： 57vw;
-  填充： #347a9d;
-}
-.八个 svg：第 n 个子（5) {
-  顶部： 68vh;
-  左： 7vw;
-  填充： #c66053;
-}
-.八个 svg：第 n 个子（6) {
-  顶部： 42vh;
-  左： 77vw;
-  填充： #bfaa40;
-}
-.八个 svg：nth-子（7) {
-  顶部： 68vh;
-  左： 83vw;
-  填充： #e3bae8;
-}
-.八个 svg：nth-子（8) {
-  顶部： 86vh;
-  左： 37vw;
-  填充： #8762cb;
-}
-.八个 svg：第 n 个子（9) {
-  顶部： 94vh;
-  左： 87vw;
-  填充： #9a90da;
-}
-.wish-hbd {
-  字体大小： 3em;
-  边距： 0;
-  文本转换：大写;
-}
-.愿望 h5 {
-  字体粗细： 更轻;
-  字体大小： 2雷姆;
-  边距： 10px 0 0;
-}
-.九页 {
-  字体大小： 2雷姆;
-  字体粗细： 更轻;
-}
-#重播 {
-  z-指数： 3;
-  光标： 指针;
-}
-/* 媒体查询 */
-@media屏幕和（最大高度：1000px）) {
-.六.帽子 {
-    左： 40%;
-  }
-}
-@media屏幕和（最大高度：800px）) {
-.六.帽子 {
-    左： 37%;
-  }
-}
-@media屏幕和（最大高度：700 像素）) {
-.六.帽子 {
-    左： 32%;
-  }
-}
-@media屏幕和（最大高度：850 像素）和（最大宽度：450 像素）) {
-.六.帽子 {
-    左： 32%;
-  }
-}
-@media屏幕和（最大宽度：500px）) {
-.容器 {
-    宽度： 90%;
-  }
-.四.文本框 {
-    宽度： 90%;
-  }
-.文本框 。假-btn {
-    右：5 像素;
-    底部：-38 像素;
-  }
-.想法-5 跨度 {
-    显示： 块;
-  }
-.idea-6 跨度 {
-    字体大小： 10雷姆;
-  }
-.六.帽子 {
-    宽度： 50px;
-    /* 顶部： -20px;*/
-  }
-.wish-hbd {
-    字体大小： 2.2em;
-  }
-.愿望 h5 {
-    字体大小： 1.4雷姆;
-  }
-.九页 {
-    字体大小： 1.5雷姆;
-    字体粗细： 更轻;
-  }
-}
+// Import the data to customize and insert them into page
+const fetchData = () => {
+  fetch("customize.json")
+    .then(data => data.json())
+    .then(data => {
+      对象。键（数据）。地图（自定义数据 => {
+        if （data[customData] ！== "") {
+          if （customData === "imagePath") {
+            公文
+              。getElementById（customData)
+              。setAttribute（"src"， data[customData]);
+          } 还 {
+            文档。getElementById（customData）.innerText = data[customData];
+          }
+        }
+      });
+    });
+};
+按顺序运行抓取和动画
+const resolveFetch = () => {
+  返回新承诺（（解决，拒绝）) => {
+    获取数据();
+    resolve（"Fetch done！");
+  });
+};
